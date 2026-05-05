@@ -1,8 +1,8 @@
-#profile-title: Pryanya VPN🥮 @hvhmx → 5
+#profile-title: base64:UHJ5YW55YSBWUE4g8J+TuSB@aHZobXgg4oaSIDA1
 #profile-update-interval: 12
 #subscription-userinfo: upload=0; download=0; total=107374182400000; expire=1740000000
 #support-url: https://t.me/hvhmx
-#announce: Pryanya VPN EBET KOZLA
+#announce: Pryanya VPN EBET KOZLA 🔥
 
 vless://735f24ba-65e2-4244-b2d5-420af6ff28de@146.185.243.104:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=0t6b8m_PBAG3rF2HPOEL4yiyb-2JglciiANPKvyb2Ho#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%231
 vless://22f65fc9-4dee-456c-a213-2a025389af31@109.120.189.213:58652?encryption=none&type=tcp&security=reality&fp=chrome&sni=www.apple.com&pbk=VZq5atMvE_1AW0nXcn4opuxZdrSu3zy3kP7YTdGj6EQ&sid=28&spx=%2FGWZCgGnbVzCEVS8#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%232
