@@ -1,0 +1,7 @@
+#profile-title: Пряня БС 🥮 @hvhmx
+#profile-update-interval: 0
+#subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1778349600
+#support-url: https://t.me/hvhmx
+#announce: Боты в бс, шд робит хорошо, трио средне, после 2к не работает!!!
+
+vless://db260154-9263-4fb6-829f-01ea40341348@fin-0001.api.aiagentsbase.link:443?encryption=none&type=xhttp&path=%2Fassets%2Fv2%2Fpkg&mode=auto&security=reality&sni=sstats.vk-portal.net&fp=qq&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=86e999a2cdc2&spx=%2F#Боты в БС(тестово)
