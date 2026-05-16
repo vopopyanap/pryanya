@@ -1,0 +1,16 @@
+# GrokTestVPN - Free VLESS Subscription for Hiddify / v2rayNG
+
+# Обновлено: 16 мая 2026
+# Название: GrokTestVPN
+
+# Хорошие бесплатные VLESS конфиги (актуальные на сейчас):
+
+https://raw.githubusercontent.com/barry-far/V2ray-Config/main/Splitted-By-Protocol/vless.txt
+
+https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/refs/heads/main/vless_configs.txt
+
+https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/vless.txt
+
+# Просто импортируй эти ссылки в Hiddify / Happy / v2rayNG
+
+# Больше конфигов ищи на github.com/barry-far/V2ray-Config
