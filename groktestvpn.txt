@@ -1,16 +1,12 @@
-# GrokTestVPN - Free VLESS Subscription for Hiddify / v2rayNG
+#profile-title: GrokTestVPN 🔥
+#profile-update-interval: 6
+#subscription-userinfo: upload=0; download=0; total=100000000000000; expire=9999999999
+#support-url: https://github.com/vopopyanap
+#announce: GrokTestVPN — бесплатная тестовая подписка
 
-# Обновлено: 16 мая 2026
-# Название: GrokTestVPN
-
-# Хорошие бесплатные VLESS конфиги (актуальные на сейчас):
-
-https://raw.githubusercontent.com/barry-far/V2ray-Config/main/Splitted-By-Protocol/vless.txt
-
-https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/refs/heads/main/vless_configs.txt
-
-https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/vless.txt
-
-# Просто импортируй эти ссылки в Hiddify / Happy / v2rayNG
-
-# Больше конфигов ищи на github.com/barry-far/V2ray-Config
+vless://db260154-9263-4fb6-829f-01ea40341348@nld-0001.api.packet-drop-society.net:443?encryption=none&type=xhttp&path=%2Fassets%2Fv2%2Fpkg&mode=auto&security=reality&sni=sstats.vk-portal.net&fp=qq&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=f79448a30d&spx=%2F#🇳🇱 Netherlands ‼️Стабильный‼️
+vless://db260154-9263-4fb6-829f-01ea40341348@usa-0001-gmn01.packet-drop-society.net:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&sid=8453e5fd9af927&spx=%2F#🇺🇸 USA ‼️Нейронки‼️
+vless://db260154-9263-4fb6-829f-01ea40341348@est-0001-xr.packet-drop-society.net:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&sid=e499f276e7bd6420&spx=%2F#🇪🇪 Estonia ‼️Стабильный‼️
+vless://db260154-9263-4fb6-829f-01ea40341348@gbr-0001.api.aiagentsbase.link:443?encryption=none&type=xhttp&path=%2Fassets%2Fv2%2Fpkg&mode=auto&security=reality&sni=sstats.vk-portal.net&fp=qq&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=175d&spx=%2F#🇬🇧 Great Britain ‼️Стабильный‼️
+vless://db260154-9263-4fb6-829f-01ea40341348@che-0001-xr.packet-drop-society.net:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&sid=f79448a30d&spx=%2F#🇨🇭 Switzerland ‼️Стабильный‼️
+vless://db260154-9263-4fb6-829f-01ea40341348@fin-0001.api.aiagentsbase.link:443?encryption=none&type=xhttp&path=%2Fassets%2Fv2%2Fpkg&mode=auto&security=reality&sni=sstats.vk-portal.net&fp=qq&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=86e999a2cdc2&spx=%2F#🇫🇮 Finland ‼️Стабильный‼️
